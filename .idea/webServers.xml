@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="daed2aff-9dbc-4b82-a5a2-483ff8a40bc2" name="shop" url="http://109.95.210.183">
+        <fileTransfer rootFolder="/www/shopping-lucky.ga" host="109.95.210.183" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
